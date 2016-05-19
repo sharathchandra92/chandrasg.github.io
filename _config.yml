@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.wesleyq.me/
-title: Wesley W. Q.
-email: wesley.chin0919@gmail.com
-author: Wesley Wei Qian
-description: > # "Wesley Wei Qian's Personal Page"
+url: http://chandrasg.github.io
+title: Sharath Chandra Guntuku
+email: sharathc001@e.ntu.edu.sg
+author: Sharath Chandra Guntuku
+description: > # "sharath chandra guntuku, personality computing, user modeling, perception of quality, emotion modeling, videos, deep representation, images, likes"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,16 +26,16 @@ gems:
 social:
   - icon: medium
     title: blog
-    url: https://medium.com/thoughts-and-notes
+    url: sharathsclass12.blogspot.sg
   - icon: envelope-o
     title: email
-    url: mailto:wesley.chin0919@gmail.com
+    url: mailto:sharathc001@e.ntu.edu.sg
   - icon: github
     title: github
-    url: https://github.com/WesleyyC
+    url: https://github.com/sharathchandra92
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/wesleychin0919
+    url: https://www.linkedin.com/in/sharathchandra92
   - icon: file-pdf-o
     title: resume
-    url: http://www.wesleyq.me/rsc/Resume.pdf
+    url: chandrasg.github.io/CV_SharathChandra.pdf
