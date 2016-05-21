@@ -5,10 +5,14 @@ category: Projects
 title: Who Likes What, and Why?* Modeling Users Personality based on Image Likes
 description: |
 ---
-With the increasing proliferation of data production technologies (e.g. cameras) and consumption avenues (e.g. social media), images and videos are being utilized by users to convey innate preferences and tastes. This has led to the possibility of using multimedia as a source for user-modeling. This work attempts to model personality traits (based on the Five Factor Theory) of users using a collection of images they tag as `favorite' (or like) on Flickr. 
-  * First, a set of semantic features are proposed to be used for representing different concepts in images which influence users to like them. The addition of the proposed features led to improvement over state-of-the-art by 12\%. 
-  * Second, a novel machine learning approach is developed to model users' personality based on the semantic features extracted from images (resulting in upto 15\% improvement). 
-  * Third, efficacy of the semantic features and the modeling approach is shown in a personality modeling based image recommendation application. Using the modeling approach, recommendations are made regarding the factors that might influence users with different personality traits to like an image.
+With the increasing proliferation of data production technologies (e.g. cameras) and consumption avenues (e.g. social media), images and videos are being utilized by users to convey innate preferences and tastes. This has led to the possibility of using multimedia as a source for user-modeling. This work attempts to model personality traits (based on the Five Factor Theory) of users using a collection of images they tag as `favorite' (or like) on Flickr.    
+
+  * First, a set of semantic features are proposed to be used for representing different concepts in images which influence users to like them. The addition of the proposed features led to improvement over state-of-the-art by 12%.   
+  
+  * Second, a novel machine learning approach is developed to model users' personality based on the semantic features extracted from images (resulting in upto 15\% improvement).     
+
+  * Third, efficacy of the semantic features and the modeling approach is shown in a personality modeling based image recommendation application. Using the modeling approach, recommendations are made regarding the factors that might influence users with different personality traits to like an image.    
+ 
   * Computational models show that concepts such as scenes, colors, presence of people has a positive influence on users with high scores on Openness trait. Extroverted users liked the images with the opposite sex in them and especially those with groups of people. Neurotic users were seen to like cluttered  and surreal images. 
   
 [TAFFC preprint](https://www.dropbox.com/s/nk1eunrmiqv8t9t/R2.pdf?dl=1)
