@@ -4,8 +4,10 @@ category: Experience
 title: Code
 description: |
 ---
-+ *Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations*, Lee, Honglak, et al. [ICML 2009 paper](http://dl.acm.org/citation.cfm?id=1553453)    
-[MATLAB Implementation along with Visualisations](https://github.com/sharathchandra92/CDBN)   
++ *Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations*,   
+   Lee, Honglak, et al. [ICML 2009 paper](http://dl.acm.org/citation.cfm?id=1553453)    
+   [MATLAB Implementation along with Visualisations](https://github.com/sharathchandra92/CDBN)   
 
-+ *Script for downloading users\' photos (tagged as favorite) along with profile information.*  Needs flickr_api   
-[Python Code](https://github.com/sharathchandra92/flickrapi_downloadfavorites) 
++ *Script for downloading users\' photos (tagged as favorite) along with profile information.*    
+   Needs flickr_api   
+   [Python Code](https://github.com/sharathchandra92/flickrapi_downloadfavorites) 
