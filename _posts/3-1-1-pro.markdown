@@ -5,10 +5,14 @@ category: Projects
 title: Modeling Users Personality based on Selfies
 description: |
 ---
-As another medium of modeling users’ personality, several mid-level cues (such as presence of duck faces, pressed lips etc.) were proposed to be computationally detected on their selfies using traditional visual features (like LBP, BoVW etc). These mid-level cues were then used as predictors to model users’ personality. 
-  * In contrast to a previous psychology finding, where extraversion was related to positive emotional expression, our study showed that it was not significantly correlated to any cue. One reason could be that users, irrespective of their degree of extraversion, tend to show positive emotion in selfies to maintain positive self-impression. 
-  * Agreeableness was negatively correlated with camera height indicating that users with high score on agreeableness tend to take selfies from below. 
-  * Conscientiousness was negatively correlated with private location indicating that conscientious people do not like to expose their private space in the background as corroborated by psychology findings.
+As another medium of modeling users’ personality, several mid-level cues (such as presence of duck faces, pressed lips etc.) were proposed to be computationally detected on their selfies using traditional visual features (like LBP, BoVW etc). These mid-level cues were then used as predictors to model users’ personality.    
+  
+  * In contrast to a previous psychology finding, where extraversion was related to positive emotional expression, our study showed that it was not significantly correlated to any cue. One reason could be that users, irrespective of their degree of extraversion, tend to show positive emotion in selfies to maintain positive self-impression.   
+ 
+  * Agreeableness was negatively correlated with camera height indicating that users with high score on agreeableness tend to take selfies from below.    
+ 
+  * Conscientiousness was negatively correlated with private location indicating that conscientious people do not like to expose their private space in the background as corroborated by psychology findings.    
+ 
   * Neuroticism positively correlated with duckface and many other insights were found on the selfie taking behaviors and how they can be used to model users’ personality.    
 
 [ACM Multimedia '15 ASM Workshop](https://www.dropbox.com/s/5dm5bqbtss60ios/ACM_MM_ASM_2015.pdf?dl=1)
