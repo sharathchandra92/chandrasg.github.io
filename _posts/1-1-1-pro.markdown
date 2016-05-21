@@ -2,10 +2,9 @@
 layout: default
 img: 1-1-1-pro.png
 category: Projects
-title: "Kaggle: <br> Restaurant Revenue Prediction"
+title: Deep Bi-Modal Representations to discriminate User Likes
 description: |
 ---
-+ **Deep Bi-Modal Representations to discriminate User Likes**   
 
 A deep-bimodal representation of images is proposed based on their visual content and associated tags (text), allowing for the transfer of semantic knowledge between the two modalities. Then a model is learnt on a collection of images 'liked' by users (from Flickr), and is shown to better state-of-art by 15-20%. Beyond this test-set performance, an attempt is made to qualitatively understand the representations learned by the deep architecture used to model user `likes'.   
 
