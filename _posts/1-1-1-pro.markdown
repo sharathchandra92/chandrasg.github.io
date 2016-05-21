@@ -12,7 +12,7 @@ Automatically understanding and discriminating different users' liking for an im
 
   * Feature selection is applied before learning deep representation to identify the important features for a user to like an image.    
   
-  * The proposed representation is shown to be effective in discriminating users based on images they like and also in recommending images that a given user 'likes', outperforming state-of-the-art feature representations by around 15-20\%.    
+  * The proposed representation is shown to be effective in discriminating users based on images they like and also in recommending images that a given user 'likes', outperforming state-of-the-art feature representations by around 15-20%.    
   
   * Beyond this test-set performance, an attempt is made to qualitatively understand the representations learned by the deep architecture used to model user `likes'.   
   
