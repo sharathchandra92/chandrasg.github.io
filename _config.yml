@@ -24,12 +24,15 @@ gems:
 # ----------------------- #
 
 social:
-  - icon: medium
-    title: blog
-    url: https://sharathsclass12.blogspot.sg
+  #- icon: medium
+  #  title: blog
+  #  url: https://sharathsclass12.blogspot.sg
   - icon: envelope-o
     title: email
     url: mailto:sharathc001@e.ntu.edu.sg
+  - icon: researchgate
+    title: ResearchGate
+    url: https://www.researchgate.net/profile/Sharath_Chandra_Guntuku
   - icon: github
     title: github
     url: https://github.com/sharathchandra92
