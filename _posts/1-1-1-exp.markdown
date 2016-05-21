@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Experience
-title: 
+title: Experience
 description: |
 ---
 
