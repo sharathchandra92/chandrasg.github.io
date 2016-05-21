@@ -2,12 +2,8 @@
 layout: default
 img: 10-1-1-pro.png
 category: Projects
-title: Jeeves
+title: Who Likes What, and Why?* Modeling Users Personality based on Image Likes
 description: |
 ---
-* [Jeeves](https://github.com/arikalfus/Jeeves) is a voice-powered virtual assistant for everyday routines and **the Runner-Up of AVIOS Mobile Speech Application Contest 2015**
-
-
-* Jeeves focuses on natural, conversational dialogue so the user doesn't have to remember a list of restricted commands. After a 5-week intensive course to learn the relevant technologies, Jeeves was imagined and realized in just another 5 weeks
-
-* Features include: Reading email, current news, and weather, natural language understanding, dialogue management
+Computational models show that concepts such as scenes, colors, presence of people has a positive influence on users with high scores on Openness trait. It was observed that extroverted users liked the images with the opposite sex in them and especially those with groups of people. Neurotic users were seen to like cluttered  and surreal images. The features proposed in this work to model users personality based on images they like led to a 12% improvement over the state-of-the-art.     
+[TAFFC preprint](https://www.dropbox.com/s/nk1eunrmiqv8t9t/R2.pdf?dl=1)
