@@ -5,4 +5,10 @@ title: Research Overview
 description: |
 ---
 
-Quality of experience (QoE) plays a crucial role in defining the success of image and video processing systems. Most of the traditional systems, however, only consider the semantics associated with the content, and ignore the influence of human factors on QoE. While it might be acceptable for objective tasks like naming objects or colors etc., present in the content, ignoring human factors might lead to serious issues in subjective tasks like modeling perception of quality, experience of emotion, concepts users ‘like’ etc. This is especially so in tasks where users’ innate psychology is shown to play a significant role in their perception.  Moreover, the challenge in building personalized systems is that users’ profiles (e.g. personality, culture etc.,) are not available freely, and often they need to be collected using survey questionnaires and other intrusive techniques. Therefore, we first attempt to automatically predict users’ personality based on their social media data and then investigate their influence on multimedia perception (specifically perception of quality and experience of affect and enjoyment).   
+Quality of experience (QoE) plays a crucial role in defining the success of image and video processing systems. Most of the traditional systems, however, only consider the semantics associated with the content, and ignore the influence of human factors on QoE. 
+
+While it might be acceptable for objective tasks like naming objects or colors etc., present in the content, ignoring human factors might lead to serious issues in subjective tasks like modeling perception of quality, experience of emotion, concepts users ‘like’ etc. This is especially so in tasks where users’ innate psychology is shown to play a significant role in their perception.  
+
+Moreover, the challenge in building personalized systems is that users’ profiles (e.g. personality, culture etc.,) are not available freely, and often they need to be collected using survey questionnaires and other intrusive techniques. 
+
+Therefore, we first attempt to automatically predict users’ personality based on their social media data and then investigate their influence on multimedia perception (specifically perception of quality and experience of affect and enjoyment).   
