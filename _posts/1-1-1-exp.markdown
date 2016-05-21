@@ -1,7 +1,7 @@
 ---
 layout: default
-category: Experiences
-title: Education
+category: Experience
+title: 
 description: |
 ---
 
