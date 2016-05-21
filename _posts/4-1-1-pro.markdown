@@ -9,5 +9,6 @@ After training the models to automatically predict users personality, we then in
   * Computational modeling showed that the inclusion of human factors on top of system factors resulted in a significant relative improvement of 5.6% in positive affect, 13.6% in negative affect and 9.3% in perceived quality for the variance. 
   * Apart from bolstering an existing evidence that most users enjoy positive emotions, our study also revealed that certain users (possibly with high scores on neuroticism) tend to enjoy negative emotions like sadness, shame etc. 
   * In addition, it was seen that when viewing gory contents like violence, users tended to rate videos with both high and low quality parameters (frame-rate, resolution and bit-rate) equivalently on enjoyment levels. However when it was more acceptable contents such as romance etc., users prefer to have the content delivered at high quality parameters - this implies that content providers can optimize their bandwidth allocation based on both users’ human factors and the content.     
+
 [ACM Multimedia '15 Full Paper](https://www.dropbox.com/s/3n52o4gcyjswtg0/ACM_MM_2015.pdf?dl=1)    
 [Transactions preprint](https://www.dropbox.com/s/m8l13n35umpchq2/bare_jrnl.pdf?dl=1)  
