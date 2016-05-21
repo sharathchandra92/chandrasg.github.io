@@ -1,15 +1,11 @@
 ---
 layout: default
-category: Code
-title: 
+category: Experience
+title: Code
 description: |
 ---
-* Research Intern, Panasonic R&D, Singapore.   
-    + Deep Learning Framework for Facial Action Unit Recognition   
-    - January 2016 -- present   
-* PhD Student, Nanyang Technological University, Singapore.   
-    + Modeling the Influence of Personality on Users' Response to Multimedia  
-    - August 2013 -- present  
-* B.E.(Hons), BITS-Pilani, India   
-    + Computer Science   
-    - August 2009 -- May 2013
++ *Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations*, Lee, Honglak, et al. [ICML 2009 paper](http://dl.acm.org/citation.cfm?id=1553453)    
+[MATLAB Implementation along with Visualisations](https://github.com/sharathchandra92/CDBN)   
+
++ *Script for downloading users\' photos (tagged as favorite) along with profile information.*  Needs flickr_api   
+[Python Code](https://github.com/sharathchandra92/flickrapi_downloadfavorites) 
