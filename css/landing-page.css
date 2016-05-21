@@ -31,10 +31,10 @@ h6 {
     padding-bottom: 40px;
     text-align: center;
     color: #f8f8f8;
-    *background: url(../img/intro-bg.jpg) no-repeat center center;*/
+    background: url(../img/intro-bg-mountain.jpg) no-repeat center center;
     background-size: cover;
     pointer-events: none;
-    *height: 600px;*/
+    height: 600px;
 
 }
 
