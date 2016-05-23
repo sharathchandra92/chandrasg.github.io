@@ -16,5 +16,10 @@ Automatically understanding and discriminating different users' liking for an im
   
   * Beyond this test-set performance, an attempt is made to qualitatively understand the representations learned by the deep architecture used to model user `likes'.   
   
-[ACCV '14](https://www.dropbox.com/s/cjjxt1cqw7wdqtk/ACCV2014.pdf?dl=1)     
-[TIP preprint](https://www.dropbox.com/s/xdx9p9ngrhayexs/TIP_Submission_R2.pdf?dl=1)  
+Publications:
+  + **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang, **_Understanding Deep Representations Learned in Modeling User Likes_**, IEEE Transactions on Image Processing, 2016, [TIP]  
+      [TIP]: https://www.dropbox.com/s/iwnhq1w3m3i70nd/TIP_SubmissionR3.pdf?dl=1
+  + **S.C.Guntuku**, S. Roy, W. Lin, **_Evaluating Visual and Textual Features for Modeling User Likes_**, IEEE ICME,  2015. [ICME]   
+      [ICME]: https://www.dropbox.com/s/43xkoqui4liac1j/ICME2015_ID114.pdf?dl=1
++ **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang,  **_Deep Representations to Model User Likes_**, 12th Asian Conference on Computer Vision, 2014, Oral [ACCV]   
+      [ACCV]: https://www.dropbox.com/s/cjjxt1cqw7wdqtk/ACCV2014.pdf?dl=1
