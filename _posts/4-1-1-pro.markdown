@@ -13,8 +13,12 @@ After training the models to automatically predict users personality, we then in
  
   * In addition, it was seen that when viewing gory contents like violence, users tended to rate videos with both high and low quality parameters (frame-rate, resolution and bit-rate) equivalently on enjoyment levels. However when it was more acceptable contents such as romance etc., users prefer to have the content delivered at high quality parameters - this implies that content providers can optimize their bandwidth allocation based on both users’ human factors and the content. 
   
-Publications:
-  + **S. C. Guntuku**, M.J.Scott, G. Ghinea, W. Lin, **_Do Personality and Culture Influence Perceived Video Quality and Enjoyment? _**, IEEE Transactions on Multimedia, 2015 (first and second authors have equal contribution) [PDF](https://goo.gl/cIivwF)
-  + M.J.Scott, **S. C. Guntuku**,  Y. Huan, G. Ghinea, W. Lin, **_Modelling Human Factors in Perceptual Multimedia Quality: On The Role of Personality and Culture _**, ACM Multimedia Full paper, 2015 (first and second authors have equal contribution)
-  + **S. C. Guntuku**, M.J.Scott, G. Ghinea, W. Lin **_Modelling the Influence of Personality and Culture on Affect and Enjoyment in Multimedia_**, ACII 2015 [PDF](https://www.dropbox.com/s/cvypuqcezzb7y20/ACII_2015.pdf?dl=1)
+Publications:   
+
+  + **S. C. Guntuku**, M.J.Scott, G. Ghinea, W. Lin, **_Do Personality and Culture Influence Perceived Video Quality and Enjoyment? _**, IEEE Transactions on Multimedia, 2015 (first and second authors have equal contribution) [PDF](https://goo.gl/cIivwF)   
+ 
+  + M.J.Scott, **S. C. Guntuku**,  Y. Huan, G. Ghinea, W. Lin, **_Modelling Human Factors in Perceptual Multimedia Quality: On The Role of Personality and Culture _**, ACM Multimedia Full paper, 2015 (first and second authors have equal contribution)    
+ 
+  + **S. C. Guntuku**, M.J.Scott, G. Ghinea, W. Lin **_Modelling the Influence of Personality and Culture on Affect and Enjoyment in Multimedia_**, ACII 2015 [PDF](https://www.dropbox.com/s/cvypuqcezzb7y20/ACII_2015.pdf?dl=1)    
+ 
   + **S. C. Guntuku**, M.J.Scott, Y. Huan, G. Ghinea, W. Lin, **_The CP-QAE-I: A Video Dataset for Exploring the Effect of Personality and Culture on Perceived Quality and Affect in Multimedia_**, IEEE QoMEX, 2015.[PDF](https://www.dropbox.com/s/o1bkgja2jaeec4u/Qomex2015_cameraready.pdf?dl=1)
