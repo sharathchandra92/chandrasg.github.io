@@ -17,6 +17,6 @@ Automatically understanding and discriminating different users' liking for an im
   * Beyond this test-set performance, an attempt is made to qualitatively understand the representations learned by the deep architecture used to model user `likes'.   
   
 Publications:
-  + **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang, **_Who Likes What and Why? Insights into Image based Personality Modeling_**, IEEE Transactions on Image Processing, 2016, [PDF preprint] (https://www.dropbox.com/s/z2mpreyq9kspl4p/TAC_SubmissionR4.pdf?dl=1)    
-  + **S. C. Guntuku**, L.Qiu, S. Roy, W. Lin, V. Jakhetiya, **_Do others perceive you as you want them to? Modeling Personality based on Selfies_**, ACM Multimedia ASM Workshop,  2015. [PDF] (https://www.dropbox.com/s/7siychu0r5fbows/ACM_MM_ASM_2015.pdf?dl=1)  
-  + **S.C.Guntuku**, S. Roy, W. Lin,  **_Personality Modeling Based Image Recommendation_**, MultiMedia Modeling, 2015, Oral [PDF] (https://www.dropbox.com/s/291vxt9y4w1mmhh/MMM2015.pdf?dl=1)  
+ +  **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang, **_Understanding Deep Representations Learned in Modeling User Likes_**, IEEE Transactions on Image Processing, 2016, [PDF preprint](https://www.dropbox.com/s/iwnhq1w3m3i70nd/TIP_SubmissionR3.pdf?dl=1)
+ +  **S.C.Guntuku**, S. Roy, W. Lin, **_Evaluating Visual and Textual Features for Modeling User Likes_**, IEEE ICME,  2015. [PDF](https://www.dropbox.com/s/43xkoqui4liac1j/ICME2015_ID114.pdf?dl=1)
+ + **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang,  **_Deep Representations to Model User Likes_**, 12th Asian Conference on Computer Vision, 2014, Oral [PDF](https://www.dropbox.com/s/cjjxt1cqw7wdqtk/ACCV2014.pdf?dl=1)   
