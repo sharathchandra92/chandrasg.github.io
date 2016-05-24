@@ -2,7 +2,7 @@
 layout: default
 img: 
 category: Projects
-title: Who Likes What, and Why?* Modeling Users Personality based on Image Likes
+title: Who Likes What, and Why? Modeling Users Personality based on Image Likes
 description: |
 ---
 With the increasing proliferation of data production technologies (e.g. cameras) and consumption avenues (e.g. social media), images and videos are being utilized by users to convey innate preferences and tastes. This has led to the possibility of using multimedia as a source for user-modeling. This work attempts to model personality traits (based on the Five Factor Theory) of users using a collection of images they tag as `favorite' (or like) on Flickr.    
