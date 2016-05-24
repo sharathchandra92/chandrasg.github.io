@@ -16,4 +16,5 @@ As another medium of modeling users’ personality, several mid-level cues (such
   * Neuroticism positively correlated with duckface and many other insights were found on the selfie taking behaviors and how they can be used to model users’ personality.    
 
 Publication:   
+
   + **S. C. Guntuku**, L.Qiu, S. Roy, W. Lin, V. Jakhetiya, **_Do others perceive you as you want them to? Modeling Personality based on Selfies_**, ACM Multimedia ASM Workshop,  2015. [PDF](https://www.dropbox.com/s/7siychu0r5fbows/ACM_MM_ASM_2015.pdf?dl=1)  
