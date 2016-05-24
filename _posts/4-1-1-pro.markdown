@@ -15,9 +15,9 @@ After training the models to automatically predict users personality, we then in
   
 Publications:   
 
-  + **S. C. Guntuku**, M.J.Scott, G. Ghinea, W. Lin, **_Do Personality and Culture Influence Perceived Video Quality and Enjoyment? _**, IEEE Transactions on Multimedia, 2015 (first and second authors have equal contribution) [PDF](https://goo.gl/cIivwF)   
+  + **S. C. Guntuku**, M.J.Scott, G. Ghinea, W. Lin, **_Do Personality and Culture Influence Perceived Video Quality and Enjoyment?_**, IEEE Transactions on Multimedia, 2015 (first and second authors have equal contribution) [PDF](https://goo.gl/cIivwF)   
  
-  + M.J.Scott, **S. C. Guntuku**,  Y. Huan, G. Ghinea, W. Lin, **_Modelling Human Factors in Perceptual Multimedia Quality: On The Role of Personality and Culture _**, ACM Multimedia Full paper, 2015 (first and second authors have equal contribution)    
+  + M.J.Scott, **S. C. Guntuku**,  Y. Huan, G. Ghinea, W. Lin, **_Modelling Human Factors in Perceptual Multimedia Quality: On The Role of Personality and Culture_**, ACM Multimedia Full paper, 2015 (first and second authors have equal contribution)    
  
   + **S. C. Guntuku**, M.J.Scott, G. Ghinea, W. Lin **_Modelling the Influence of Personality and Culture on Affect and Enjoyment in Multimedia_**, ACII 2015 [PDF](https://www.dropbox.com/s/cvypuqcezzb7y20/ACII_2015.pdf?dl=1)    
  
