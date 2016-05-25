@@ -5,12 +5,12 @@ title: Experience
 description: |
 ---
 
-* Research Intern, Panasonic R&D, Singapore.   
+* Research Intern, **Panasonic R&D**, Singapore.   
     + Deep Learning Framework for Facial Action Unit Recognition   
     - January 2016 -- present   
-* PhD Student, Nanyang Technological University, Singapore.   
+* PhD Student, **Nanyang Technological University (NTU)**, Singapore.   
     + Modeling the Influence of Personality on Users' Response to Multimedia  
     - August 2013 -- present  
-* B.E.(Hons), BITS-Pilani, India   
+* B.E.(Hons), **Birla Institute of Technology and Science (BITS) - Pilani**, India   
     + Computer Science   
     - August 2009 -- May 2013
