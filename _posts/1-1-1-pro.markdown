@@ -18,8 +18,8 @@ Automatically understanding and discriminating different users' liking for an im
   
 Publications:   
 
- +  **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang, **_Understanding Deep Representations Learned in Modeling User Likes_**, IEEE Transactions on Image Processing, 2016, [PDF preprint](https://www.dropbox.com/s/iwnhq1w3m3i70nd/TIP_SubmissionR3.pdf?dl=1)  
+ +  **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang, **_Understanding Deep Representations Learned in Modeling User Likes_**, IEEE Transactions on Image Processing, 2016, [PDF preprint](https://www.researchgate.net/publication/303498119_Understanding_Deep_Representations_Learned_in_Modeling_Users_Likes%27)  
 
- +  **S.C.Guntuku**, S. Roy, W. Lin, **_Evaluating Visual and Textual Features for Modeling User Likes_**, IEEE ICME,  2015. [PDF](https://www.dropbox.com/s/43xkoqui4liac1j/ICME2015_ID114.pdf?dl=1)    
+ +  **S.C.Guntuku**, S. Roy, W. Lin, **_Evaluating Visual and Textual Features for Modeling User Likes_**, IEEE ICME,  2015. [PDF](https://www.researchgate.net/publication/281642949_Evaluating_visual_and_textual_features_for_predicting_user_%27likes%27)    
 
- + **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang,  **_Deep Representations to Model User Likes_**, 12th Asian Conference on Computer Vision, 2014, Oral [PDF](https://www.dropbox.com/s/cjjxt1cqw7wdqtk/ACCV2014.pdf?dl=1)   
+ + **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang,  **_Deep Representations to Model User Likes_**, 12th Asian Conference on Computer Vision, 2014, Oral [PDF](https://www.researchgate.net/publication/281642951_Deep_Representations_to_Model_User_%27Likes%27)   
