@@ -17,6 +17,6 @@ With the increasing proliferation of data production technologies (e.g. cameras)
   
 Publications:   
 
-  + **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang, **_Who Likes What and Why? Insights into Image based Personality Modeling_**, IEEE Transactions on Image Processing, 2016, [PDF preprint](https://www.dropbox.com/s/z2mpreyq9kspl4p/TAC_SubmissionR4.pdf?dl=1)      
+  + **S.C.Guntuku**, J. T. Zhou, S. Roy, W. Lin, I. W. Tsang, **_Who Likes What and Why? Insights into Image based Personality Modeling_**, IEEE Transactions on Affective Computing, 2016, [PDF preprint](https://www.dropbox.com/s/z2mpreyq9kspl4p/TAC_SubmissionR4.pdf?dl=1)      
  
   + **S.C.Guntuku**, S. Roy, W. Lin,  **_Personality Modeling Based Image Recommendation_**, MultiMedia Modeling, 2015, Oral [PDF](https://www.researchgate.net/publication/281643019_Personality_Modeling_Based_Image_Recommendation)  
