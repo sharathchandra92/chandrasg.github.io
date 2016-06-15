@@ -23,7 +23,8 @@ description: |
 ### Conference Papers    
     
 #### 2016    
-   + **Guntuku, S. C.**, Roy, S., Lin, W., Ng, K., Ng, W.K., Jakhetiya, V., **_Personalizing User Interfaces for improving Quality of Experience in VoD Recommender Systems_**, 2016, Eigth International Conference on Quality of Multimedia Experience (QoMEX) [PDF](https://www.researchgate.net/publication/301337780_Personalizing_User_Interfaces_for_improving_Quality_of_Experience_in_VoD_Recommender_Systems)    
+   + **Guntuku, S. C.**, Roy, S., Lin, W., Ng, K., Ng, W.K., Jakhetiya, V., **_Personalizing User Interfaces for improving Quality of Experience in VoD Recommender Systems_**, 2016, Eigth International Conference on Quality of Multimedia Experience (QoMEX) [PDF](https://www.researchgate.net/publication/301337780_Personalizing_User_Interfaces_for_improving_Quality_of_Experience_in_VoD_Recommender_Systems) 
+   + Roy, S., **Guntuku, S. C.**, **_Latent Factor Representations for Cold-Start Video Recommendation_**, 2016, ACM Recommender Systems (RecSys) [PDF](https://www.researchgate.net/publication/303984492_Latent_Factor_Representations_for_Cold-Start_Video_Recommendation)
    
 #### 2015     
    + **Guntuku, S. C.**, Qiu, L., Roy, S., Lin, W., & Jakhetiya, V., **_Do Others Perceive You As You Want Them To?: Modeling Personality based on Selfies_** In Proceedings of the 1st International Workshop on Affect & Sentiment in Multimedia at ACM Multimedia 2015, (pp. 21-26). [PDF](https://www.researchgate.net/publication/282273011_Do_Others_Perceive_You_As_You_Want_Them_To_Modeling_Personality_based_on_Selfies)      
