@@ -9,8 +9,8 @@ description: |
 
 #### 2016
 
-  + **Guntuku, S. C.**, Zhou, J. T., Roy, S., Weisi, L., & Tsang, I. W., **_Who Likes What and Why? Insights into Image based Personality Modeling_**, IEEE Transactions on Affective Computing, 2016, [PDF](https://www.dropbox.com/s/z2mpreyq9kspl4p/TAC_SubmissionR4.pdf?dl=1)    
-  + **Guntuku, S. C.**, Zhou, J. T., Roy, S., Weisi, L., & Tsang, I. W., **_Understanding Deep Representations Learned in Modeling User Likes_**, IEEE Transactions on Image Processing, 2016, [PDF preprint](https://www.researchgate.net/publication/303498119_Understanding_Deep_Representations_Learned_in_Modeling_Users_Likes%27)    
+  + **Guntuku, S. C.**, Zhou, J. T., Roy, S., Weisi, L., & Tsang, I. W., **_Understanding Deep Representations Learned in Modeling User Likes_**, IEEE Transactions on Image Processing, 2016, [PDF](https://www.researchgate.net/publication/303498119_Understanding_Deep_Representations_Learned_in_Modeling_Users_Likes%27)
+  + **Guntuku, S. C.**, Zhou, J. T., Roy, S., Weisi, L., & Tsang, I. W., **_Who Likes What and Why? Insights into Personality Modeling based on Image `Likes'_**, IEEE Transactions on Affective Computing, 2016, [PDF](https://www.dropbox.com/s/z2mpreyq9kspl4p/TAC_SubmissionR4.pdf?dl=1)    
   + **Guntuku, S. C.**, Scott, M. J., Ghinea, G., & Lin, W., **_Personality, Culture, and System Factors - Impact on Affective Response to Multimedia_**, [PDF Preprint](https://www.researchgate.net/publication/304273563_Personality_Culture_and_System_Factors_-_Impact_on_Affective_Response_to_Multimedia)
   + Scott, M. J., **Guntuku, S. C.**, Lin, W., & Ghinea, G., **_Do Personality and Culture Influence Perceived Video Quality and Enjoyment?_**, IEEE Transactions on Multimedia, 2016 (first and second authors have equal contribution) [PDF](https://goo.gl/cIivwF)    
 
