@@ -9,9 +9,10 @@ description: |
 
 #### 2016
 
-  + **Guntuku, S. C.**, Zhou, J. T., Roy, S., Weisi, L., & Tsang, I. W., **_Who Likes What and Why? Insights into Image based Personality Modeling_**, IEEE Transactions on Affective Computing, 2016, [PDF preprint](https://www.dropbox.com/s/z2mpreyq9kspl4p/TAC_SubmissionR4.pdf?dl=1)    
+  + **Guntuku, S. C.**, Zhou, J. T., Roy, S., Weisi, L., & Tsang, I. W., **_Who Likes What and Why? Insights into Image based Personality Modeling_**, IEEE Transactions on Affective Computing, 2016, [PDF](https://www.dropbox.com/s/z2mpreyq9kspl4p/TAC_SubmissionR4.pdf?dl=1)    
   + **Guntuku, S. C.**, Zhou, J. T., Roy, S., Weisi, L., & Tsang, I. W., **_Understanding Deep Representations Learned in Modeling User Likes_**, IEEE Transactions on Image Processing, 2016, [PDF preprint](https://www.researchgate.net/publication/303498119_Understanding_Deep_Representations_Learned_in_Modeling_Users_Likes%27)    
-  + Scott, M. J., **Guntuku, S. C.**, Lin, W., & Ghinea, G.,, **_Do Personality and Culture Influence Perceived Video Quality and Enjoyment?_**, IEEE Transactions on Multimedia, 2016 (first and second authors have equal contribution) [PDF preprint](https://goo.gl/cIivwF)    
+  + **Guntuku, S. C.**, Scott, M. J., Ghinea, G., & Lin, W., **_Personality, Culture, and System Factors - Impact on Affective Response to Multimedia_**, [PDF Preprint](https://www.researchgate.net/publication/304273563_Personality_Culture_and_System_Factors_-_Impact_on_Affective_Response_to_Multimedia)
+  + Scott, M. J., **Guntuku, S. C.**, Lin, W., & Ghinea, G., **_Do Personality and Culture Influence Perceived Video Quality and Enjoyment?_**, IEEE Transactions on Multimedia, 2016 (first and second authors have equal contribution) [PDF](https://goo.gl/cIivwF)    
 
 #### 2015      
   + Gupta, A. K., **Guntuku, S. C.**, Desu, R. K., & Balu, A., **_Optimisation of turning parameters by integrating genetic algorithm with support vector regression and artificial neural networks_** The International Journal of Advanced Manufacturing Technology 77.1-4 (2015): 331-339. [PDF](https://www.researchgate.net/publication/269846116_Optimisation_of_turning_parameters_by_integrating_genetic_algorithm_with_support_vector_regression_and_artificial_neural_networks?ev=prf_pub)      
