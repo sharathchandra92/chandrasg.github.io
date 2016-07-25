@@ -4,10 +4,13 @@ category: Experience
 title: Experience
 description: |
 ---
-
+* Visiting Research Scholar, **University of Pennsylvania**.
+    + Working on social media research in building user level prediction models by looking at correlations between multiple modalities (text and images) with psychological traits (personality).
+    + at World Well-Being Project, Penn Positive Psychology Center
+    + August 2016 -- present
 * Research Intern, **Panasonic R&D**, Singapore.   
     + Deep Learning Framework for Facial Action Unit Recognition   
-    - January 2016 -- present   
+    - January 2016 -- June 2016   
 * PhD Student, **Nanyang Technological University (NTU)**, Singapore.   
     + Modeling the Influence of Personality on Users' Response to Multimedia  
     - August 2013 -- present  
