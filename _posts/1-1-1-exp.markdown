@@ -4,7 +4,7 @@ category: Experience
 title: Experience
 description: |
 ---
-* Visiting Research Scholar, **University of Pennsylvania**.
+* Research Scholar, **University of Pennsylvania**.
     + at World Well-Being Project, Penn Positive Psychology Center
     + Working on social media research in building user level prediction models by looking at correlations between multiple modalities (text and images) with psychological traits (personality).
     + August 2016 -- present
@@ -13,7 +13,7 @@ description: |
     - January 2016 -- June 2016   
 * PhD Student, **Nanyang Technological University (NTU)**, Singapore.   
     + Modeling the Influence of Personality on Users' Response to Multimedia  
-    - August 2013 -- present  
+    - August 2013 -- December 2016  
 * B.E.(Hons), **Birla Institute of Technology and Science (BITS) - Pilani**, India   
     + Computer Science   
     - August 2009 -- May 2013
